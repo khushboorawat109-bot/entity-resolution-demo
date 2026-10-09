@@ -14,8 +14,7 @@ You can also override the decision threshold to see how it trades precision
 against recall (the model's own threshold is tuned conservatively, because
 falsely merging two different businesses is the costly error).
 
-**Main project, with the full pipeline and writeup:** _add the link to your
-main repository here_
+**Main project, with the full pipeline and writeup:** https://github.com/khushboorawat109-bot/Business_entity_resolution
 
 ## How it works
 
